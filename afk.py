@@ -30,9 +30,9 @@ class AFKMod(loader.Module):
     """Provides a message saying that you are unavailable"""
     strings = {"name": "AFK",
                "gone": "<b>I'm goin' away from earth don't tag me AFK</b>",
-               "back": "<b>I'm no longer AFK</b>",
-               "afk": "<b>I'm AFK right now (since {} ago).</b>",
-               "afk_reason": "<b>I'm AFK right now & far away from earth (since {} ago).\nReason:</b> <i>{}</i>"}
+               "back": "<b>I'm back to earth again </b>",
+               "afk": "<b>I'm on Moon 🌙 right now (since {} ago).</b>",
+               "afk_reason": "<b>I'm far away from earth (since {} ago).\nReason:</b> <i>{}</i>"}
 
     async def client_ready(self, client, db):
         self._db = db
