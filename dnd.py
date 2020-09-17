@@ -41,24 +41,24 @@ class DoNotDisturbMod(loader.Module):
                "afk_gone": "<b>I'm goin' Away🚀 from earth 🌍 !</b>",
                "afk_no_group_off": "<b>AFK status message enabled for group chats.</b>",
                "afk_no_group_on": "<b>AFK status message disabled for group chats.</b>",
-               "afk_no_pm_off": "<b>AFK status message enabled for PMs.</b>",
-               "afk_no_pm_on": "<b>AFK status message disabled for PMs.</b>",
-               "afk_notif_off": "<b>Notifications are now disabled during AFK time.</b>",
-               "afk_notif_on": "<b>Notifications are now enabled during AFK time.</b>",
+               "afk_no_pm_off": "<b>AFK status message enabled for PMs✅.</b>",
+               "afk_no_pm_on": "<b>AFK status message disabled for PMs❌.</b>",
+               "afk_notif_off": "<b>Notifications are now disabled during AFK time🔇.</b>",
+               "afk_notif_on": "<b>Notifications are now enabled during AFK time🔉.</b>",
                "afk_rate_limit_off": "<b>AFK status message rate limit disabled.</b>",
                "afk_rate_limit_on": ("<b>AFK status message rate limit enabled.</b>"
                                      "\n\n<b>One AFK status message max will be sent per chat.</b>"),
                "afk_reason": ("<b>I'm in Moon🌙 right right now, I'll be back after a nap (since {} ago).</b>"
                               "\n\n<b>Reason :</b> <i>{}</i>"),
                "arg_on_off": "<b>Argument must be 'off' or 'on' !</b>",
-               "pm_off": ("<b>Automatic answer for denied PMs disabled."
+               "pm_off": ("<b>Automatic answer for denied PMs disabled🔇."
                           "\n\nUsers are now free to PM !</b>"),
-               "pm_on": "<b>An automatic answer is now sent for denied PMs.</b>",
-               "pm_allowed": "<b>I have allowed</b> <a href='tg://user?id={}'>you</a> <b>to PM now.</b>",
+               "pm_on": "<b>An automatic answer is now sent for denied PMs🔉.</b>",
+               "pm_allowed": "<b>I have allowed</b> <a href='tg://user?id={}'>you</a> <b>to PM now✅.</b>",
                "pm_blocked": ("<b>I don't want any PM from</b> <a href='tg://user?id={}'>you</a>, "
-                              "<b>so you have been blocked !</b>"),
-               "pm_denied": "<b>I have denied</b> <a href='tg://user?id={}'>you</a> <b>to PM now.</b>",
-               "pm_go_away": ("Bleep blop! This is a bot. Don't fret.\n\n"  
+                              "<b>so you have been blocked⚠️ !</b>"),
+               "pm_denied": "<b>I have denied</b> <a href='tg://user?id={}'>you</a> <b>to PM now🚫.</b>",
+               "pm_go_away": ("🗣️Bleep blop❗❗❗❗ This is a bot 🤖. Don't fret🔕.\n\n"  
                               "`My master hasn't approved you to PM.\n\n`" 
                                  "`Please wait for my master to look in, he mostly approves PMs.`\n\n"
                                      "`As far as I know, he doesn't usually approve retards though.`\n\n"
