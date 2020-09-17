@@ -36,7 +36,7 @@ class DoNotDisturbMod(loader.Module):
      
     """
     strings = {"name": "DND",
-               "afk": "<b>I'm in Moon🌙 right right now, I'll be back after a nap (since</b> <i>{}</i> <b>ago).</b>",
+               "afk": "<b>I'm in Moon🌙 right now, I'll be back after a nap (since</b> <i>{}</i> <b>ago).</b>",
                "afk_back": "<b>I'm BACK to Earth 🌍 !</b>",
                "afk_gone": "<b>I'm goin' Away🚀 from earth 🌍 !</b>",
                "afk_no_group_off": "<b>AFK status message enabled for group chats.</b>",
@@ -48,7 +48,7 @@ class DoNotDisturbMod(loader.Module):
                "afk_rate_limit_off": "<b>AFK status message rate limit disabled.</b>",
                "afk_rate_limit_on": ("<b>AFK status message rate limit enabled.</b>"
                                      "\n\n<b>One AFK status message max will be sent per chat.</b>"),
-               "afk_reason": ("<b>I'm in Moon🌙 right right now, I'll be back after a nap (since {} ago).</b>"
+               "afk_reason": ("<b>I'm in Moon🌙 right now, I'll be back after a nap (since {} ago).</b>"
                               "\n\n<b>Reason :</b> <i>{}</i>"),
                "arg_on_off": "<b>Argument must be 'off' or 'on' !</b>",
                "pm_off": ("<b>Automatic answer for denied PMs disabled🔇."
