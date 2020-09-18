@@ -54,16 +54,17 @@ class DoNotDisturbMod(loader.Module):
                "pm_off": ("<b>Automatic answer for denied PMs disabled🔇."
                           "\n\nUsers are now free to PM !</b>"),
                "pm_on": "<b>An automatic answer is now sent for denied PMs🔉.</b>",
-               "pm_allowed": "<b>I have allowed</b> <a href='tg://user?id={}'>you</a> <b>to PM now✅.</b>",
+               "pm_allowed": "<b>ɪ ʜᴀᴠᴇ ᴀʟʟᴏᴡᴇᴅ</b> <a href='tg://user?id={}'>ʏᴏᴜ</a> <b>ᴛᴏ ᴘᴍ ɴᴏᴡ✅.</b>",
                "pm_blocked": ("<b>I don't want any PM from</b> <a href='tg://user?id={}'>you</a>, "
                               "<b>so you have been blocked⚠️ !</b>"),
                "pm_denied": "<b>I have denied</b> <a href='tg://user?id={}'>you</a> <b>to PM now🚫.</b>",
-               "pm_go_away": ("🗣️Bleep blop❗❗❗❗ This is a bot 🤖. Don't fret🔕.\n\n"  
-                              "`My master hasn't approved you to PM.\n\n`" 
-                                 "`Please wait for my master to look in, he mostly approves PMs.`\n\n"
-                                     "`As far as I know, he doesn't usually approve retards though.`\n\n"
-                                    "Please contact me in a group, or <b>wait</b>"
-                                        "for me to approve you."),
+               "pm_go_away": ("🗣️ʙʟᴇᴇᴘ ʙʟᴇᴇᴘ❗❗❗❗ ᴛʜɪs ɪs ᴀ ʙᴏᴛ 🤖. ᴅᴏɴ'ᴛ ғʀᴇᴛ🔕🔕.\n\n"  
+                              "``ᴍʏ ᴍᴀsᴛᴇʀ ʜᴀsɴ'ᴛ ᴀᴘᴘʀᴏᴠᴇᴅ ʏᴏᴜ ᴛᴏ ᴘᴍ`..\n\n`" 
+                                 "`ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ғᴏʀ ᴍʏ ᴍᴀsᴛᴇʀ ᴛᴏ ʟᴏᴏᴋ ɪɴ, ʜᴇ ᴍᴏsᴛʟʏ ᴀᴘᴘʀᴏᴠᴇs ᴘᴍs..`\n\n"
+                                     "`ᴀs ғᴀʀ ᴀs ɪ ᴋɴᴏᴡ, ʜᴇ ᴅᴏᴇsɴ'ᴛ ᴜsᴜᴀʟʟʏ ᴀᴘᴘʀᴏᴠᴇ ʀᴇᴛᴀʀᴅs ᴛʜᴏᴜɢʜ..`\n\n"
+                                       "`ɪғ ʏᴏᴜ ʜᴀᴠᴇ ɴᴏ ᴘᴀᴛɪᴇɴᴄᴇ ᴛʜᴇɴ ᴛᴀʟᴋ ᴛᴏ ᴍʏ ʙᴏᴛ.. 😎`\n\n"
+                                    "ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ, ᴏʀ <b>ᴡᴀɪᴛ</b>"
+                                        "ғᴏʀ ᴍᴇ ᴛᴏ ᴀᴘᴘʀᴏᴠᴇ ʏᴏᴜ."),
                "pm_reported": "<b>You just got reported to spam !</b>",
                "pm_limit_arg": "<b>Argument must be 'off', 'on' or a number between 5 and 1000 !</b>",
                "pm_limit_off": "<b>Not allowed users are now free to PM without be automatically blocked.</b>",
