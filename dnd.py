@@ -58,11 +58,12 @@ class DoNotDisturbMod(loader.Module):
                "pm_blocked": ("<b>I don't want any PM from</b> <a href='tg://user?id={}'>you</a>, "
                               "<b>so you have been blocked⚠️ !</b>"),
                "pm_denied": "<b>I have denied</b> <a href='tg://user?id={}'>you</a> <b>to PM now🚫.</b>",
-               "pm_go_away": ("🗣️ʙʟᴇᴇᴘ ʙʟᴇᴇᴘ❗❗❗❗ ᴛʜɪs ɪs ᴀ ʙᴏᴛ 🤖. ᴅᴏɴ'ᴛ ғʀᴇᴛ🔕🔕.\n\n"  
+               "pm_go_away": ("\n\n🗣️ʙʟᴇᴇᴘ ʙʟᴇᴇᴘ❗❗❗❗ ᴛʜɪs ɪs ᴀ ʙᴏᴛ 🤖. ᴅᴏɴ'ᴛ ғʀᴇᴛ🔕🔕.\n\n"  
                               "``ᴍʏ ᴍᴀsᴛᴇʀ ʜᴀsɴ'ᴛ ᴀᴘᴘʀᴏᴠᴇᴅ ʏᴏᴜ ᴛᴏ ᴘᴍ`..\n\n`" 
                                  "`ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ғᴏʀ ᴍʏ ᴍᴀsᴛᴇʀ ᴛᴏ ʟᴏᴏᴋ ɪɴ, ʜᴇ ᴍᴏsᴛʟʏ ᴀᴘᴘʀᴏᴠᴇs ᴘᴍs..`\n\n"
                                      "`ᴀs ғᴀʀ ᴀs ɪ ᴋɴᴏᴡ, ʜᴇ ᴅᴏᴇsɴ'ᴛ ᴜsᴜᴀʟʟʏ ᴀᴘᴘʀᴏᴠᴇ ʀᴇᴛᴀʀᴅs ᴛʜᴏᴜɢʜ..`\n\n"
-                                       "`ɪғ ʏᴏᴜ ʜᴀᴠᴇ ɴᴏ ᴘᴀᴛɪᴇɴᴄᴇ ᴛʜᴇɴ ᴛᴀʟᴋ ᴛᴏ ᴍᴇ 😎..`\n\n"
+                                       "`ɪғ ʏᴏᴜ ʜᴀᴠᴇ ɴᴏ ᴘᴀᴛɪᴇɴᴄᴇ ᴛʜᴇɴ
+                                          ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ ᴀs ʟᴏɴɢ ᴀs ʏᴏᴜ ʟɪᴋᴇ, ɪᴛ ᴡɪʟʟ ᴋᴇᴇᴘ ʀᴇᴘᴇᴀᴛɪɴɢ ɪᴛsᴇʟғ ᴛʜᴏ...`\n\n"
                                     "ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ, ᴏʀ <b>ᴡᴀɪᴛ</b>"
                                         "ғᴏʀ ᴍᴇ ᴛᴏ ᴀᴘᴘʀᴏᴠᴇ ʏᴏᴜ."),
                "pm_reported": "<b>You just got reported to spam !</b>",
