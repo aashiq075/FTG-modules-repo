@@ -64,7 +64,7 @@ class DoNotDisturbMod(loader.Module):
                                      "`ᴀs ғᴀʀ ᴀs ɪ ᴋɴᴏᴡ, ʜᴇ ᴅᴏᴇsɴ'ᴛ ᴜsᴜᴀʟʟʏ ᴀᴘᴘʀᴏᴠᴇ ʀᴇᴛᴀʀᴅs ᴛʜᴏᴜɢʜ..`\n\n" 
 "`ɪғ ʏᴏᴜ ʜᴀᴠᴇ ɴᴏ ᴘᴀᴛɪᴇɴᴄᴇ ᴛʜᴇɴ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ ᴀs ʟᴏɴɢ ᴀs ʏᴏᴜ ʟɪᴋᴇ, ɪᴛ ᴡɪʟʟ ᴋᴇᴇᴘ ʀᴇᴘᴇᴀᴛɪɴɢ ɪᴛsᴇʟғ ᴛʜᴏ...`\n\n"
                                     "ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ.\n\n" ᴏʀ\n\n", "<b>ᴡᴀɪᴛ</b>\n\n"
-                                        "_ғᴏʀ ᴍᴇ ᴛᴏ ᴀᴘᴘʀᴏᴠᴇ ʏᴏᴜ."),
+                                        "ғᴏʀ ᴍᴇ ᴛᴏ ᴀᴘᴘʀᴏᴠᴇ ʏᴏᴜ."),
                "pm_reported": "<b>You just got reported to spam !</b>",
                "pm_limit_arg": "<b>Argument must be 'off', 'on' or a number between 5 and 1000 !</b>",
                "pm_limit_off": "<b>Not allowed users are now free to PM without be automatically blocked.</b>",
